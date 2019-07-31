@@ -126,7 +126,7 @@ from itertools import cycle
 
 headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36'}
 
-link = 'https://www.amazon.in/s?k=' + x +'&ref=nb_sb_noss'
+link = '_______'               #enter the web address to scrap the website for products
 
 
 proxies = get_proxies()
